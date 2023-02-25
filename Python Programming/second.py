@@ -1,0 +1,18 @@
+print (5,5,6,5,4, sep='   ',   end='***Thanks***')
+print(2,5,6,3,5,  sep='   ',  end='***Thanks***')
+print(2,8,5,7,5)
+print("Prince","Singh", sep='  ')
+a= print("Prince")
+print(a)
+print("a=   ","b=     ")
+str = ("hello world")
+print(str)
+print("str [0:-5]= ",str[0:-5])
+str = ("Prince singh")
+str1 = ("hello world")
+print(str, str1)
+
+str1 = ("Prince")
+str2 = ("Singh")
+print(str1 + str2)
+

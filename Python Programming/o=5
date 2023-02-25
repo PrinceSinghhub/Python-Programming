@@ -1,0 +1,4 @@
+o=5
+b=3
+c=o+b
+print(c)

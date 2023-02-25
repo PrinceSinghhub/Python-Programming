@@ -1,0 +1,5 @@
+num=(" ","one","two","three","four","five","six","seven","eight","nine")
+love=("","","twenty","thirty",'fourty',"fifty",'sixty',"sventy","eighty","ninety")
+tens=("ten",'eleven','twelve','thirteen','fourteen','fifteen', 'sixteen','seventeen','eighteen',"nineteen")
+n=int(input("enter the number"))
+print(num[n])
